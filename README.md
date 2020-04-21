@@ -1,6 +1,6 @@
 # LOCHat-IOS
 
-LOChat is a Location-Based Anonymous Chat App.
+LOChat is a Location-Based Anonymous Chat App. Also it is a Native Swift App.
 
 You can chat anonymously with users near you.
 
