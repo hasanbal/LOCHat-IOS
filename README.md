@@ -8,8 +8,15 @@ You can see messages that sent at most 1000 meters away from you.
 
 Also, your messages can visible only at most 1000 meters far users from you.
 
-# Screenshots
+## Tech Stack
 
-![](ss1.png)
+- Swift
+- Firebase
+
+
+
+## Screenshots
+
+
 ![](ss2.png)
 ![](ss3.png)
